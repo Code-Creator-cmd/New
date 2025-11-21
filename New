@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").RewardsAddCash:FireServer(50000000)
